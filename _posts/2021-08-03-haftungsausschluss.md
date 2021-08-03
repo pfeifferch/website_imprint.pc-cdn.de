@@ -8,9 +8,8 @@ thumbnail: icon-152x152.png
 highresolutionimg: icon-152x152.png
 ---
 
-<!-- entry-content -->
-	<div class="entry-content">
-		<div class="entry-content">
+<div class="entry-content">
+
 <h2>Domains</h2>
 <p>Die für das Impressum bzw den Haftungsausschluss zugehörigen Domains sind</p>
 <blockquote>
