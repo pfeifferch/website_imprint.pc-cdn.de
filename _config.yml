@@ -1,0 +1,5 @@
+name: IMPRINT.PC-CDN.DE - CDN (DE)
+markdown: kramdown
+highlighter: rouge # pygments or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+permalink: /:year/:month/:day/:title:output_ext/index.html
