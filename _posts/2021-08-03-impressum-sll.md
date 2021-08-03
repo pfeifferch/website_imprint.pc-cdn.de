@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: imprint
 date:   2021-08-03 08:15:00
 categories: Info
 permalink: impressum-sll/index.html
