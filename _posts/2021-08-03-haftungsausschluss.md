@@ -13,8 +13,7 @@ highresolutionimg: icon-152x152.png
 <h2>Domains</h2>
 <p>Die für das Impressum bzw den Haftungsausschluss zugehörigen Domains sind</p>
 <blockquote>
-<h2>
-<a href="./../2018/06/17/websites/index.html">hier einsehbar</a>
+<h3><a href="./../2018/06/17/websites/index.html">hier einsehbar</a></h3>
 </blockquote>
 <div align="left">
 <h2>Haftung für Links</h2>
