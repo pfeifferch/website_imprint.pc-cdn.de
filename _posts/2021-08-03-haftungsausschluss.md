@@ -20,39 +20,7 @@ highresolutionimg: icon-152x152.png
 christian-mestermann.de
 mestermann.name
 
-pfeiffer.space
-pfeiffer.world
-pfeiffer.work
-c-pfeiffer.de
-
-pc-cdn.de
-pc-cdn.eu
-
-disposable-mailbox.eu
-
-Die folgenden Domains stehen zum Verkauf
-&#8211; derzeit keine &#8211;
-
-
-Die folgenden Domains werden bzw wurden ebenfalls genutzt.
-Aufgrund der AGB des Domain-Anbieters sind Änderungen durch diesen möglich und zwar kann er nach alleinigen Ermessen Änderungen vornehmen, den Dienst an irgendeinem Teil des Dienstes jederzeit mit oder ohne vorherige Ankündigung vorübergehend oder dauerhaft einstellen, einschließlich, ohne Einschränkung, Änderung oder Einstellung von Werbung, Inhalten und Anwendungen &#8211; Hiermit distanziere/n ich/wir mich/uns ausdrücklich von sämtlichen Inhalten, aller etwaigen Änderungen jegweder Art durch Freenom und/oder deren Partner und mache/n mir/uns deren Inhalte nicht zu eigen.
-Da Freenom in der Vergangenheit regelmäßig von der Änderungspraxis Gebrauch gemacht hat, wurde ein Abschalt-Hinweis auf den folgenden Domains eingestellt welcher solange Angezeigt wird,  bis der Domain Anbieter von seiner AGB gebrauch macht und eigenmächtig Änderungen vornimmt (sprich: der Hinweis bleibt so lange, bis Freenom.die Domain löscht, für eigene Inhalte nutzt oder neu vergibt).
-cp-freehosting.cf
-cpgps.tk
-cp-gps.tk
-cp-hosting.tk
-cp-hosting.ml
-cp-hosting.ga
-cp-hosting.cf
-cp-hosting.gq
-hausbau-blog.ga
-hausbau-blog.ml
-cp-cdn.ml
-cp-mail.ml
-cp-mail.cf
-pcshop.cf
-pc-shop.ml
-pc-shop.cf...</span></span><span class="custom_fields">
+...</span></span><span class="custom_fields">
 <!-- WPLP Unknown field: Custom_Fields -->
 </span></a></div>
 <div id="wplp_box_right_394_298" class="wpcu-front-box right wpcu-custom-position" style="width: 0%"><a href="./../2018/06/17/websites/index.html"></a></div>
