@@ -14,27 +14,7 @@ highresolutionimg: icon-152x152.png
 <p>Die für das Impressum bzw den Haftungsausschluss zugehörigen Domains sind</p>
 <blockquote>
 <h2>
-
-<div class="wplp_outside wplp_widget_394" style="max-width:100%;">
-<div id="wplp_widget_394" class="wplp_widget_default wplp_container vertical defaultflexslide default cols3" data-post="394" data-max-elts="1" data-per-page="10">
-
-<!--<ul class="wplp_listposts defaultflexslide" id="default_394" style="width: 100%;">
-<li class="parent " style="">-->
-<div class="insideframe">
-<!--<ul style="">
-<li class="" style="width:33.333333333333%;box-sizing: border-box;-moz-box-sizing: border-box;">-->
-<div class="insideframe">
-<div id="wplp_box_left_394_298" class="wpcu-front-box left wpcu-custom-position" style="width: 100%">
-<a href="./../2018/06/17/websites/index.html"><span class="text"><span style="max-height:2.8em" class="line_limit">
-Nipp.es
-
-christian-mestermann.de
-mestermann.name
-
-...</span></span><span class="custom_fields">
-<!-- WPLP Unknown field: Custom_Fields -->
-</span></a></div>
-</div><!--</li></ul>--></div><!--</li></ul>--></div></div></h2>
+<a href="./../2018/06/17/websites/index.html">hier einsehbar</a>
 </blockquote>
 <div align="left">
 <h2>Haftung für Links</h2>
