@@ -7,10 +7,5 @@ title:  "quellenangaben"
 thumbnail: icon-152x152.png
 highresolutionimg: icon-152x152.png
 ---
-
-<!-- entry-content -->
-	<div class="entry-content">
-		<p>&nbsp;</p>
-<blockquote><p>⇒ Moved to <a href="https://goto.c-pfeiffer.de/quellenangaben">https://ise.pc-cdn.de/</a></p></blockquote>
-			</div>
-<!-- .entry-content -->
+<p>&nbsp;</p>
+<blockquote><p>⇒ Moved to <a href="https://goto.pc-cdn.de/quellenangaben">https://ise.pc-cdn.de/</a></p></blockquote>
