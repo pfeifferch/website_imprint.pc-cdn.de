@@ -18,8 +18,8 @@ Caya Postbox 474428<br>
 11516 Berlin</p>
 <p>Deutschland</p>
 <p>Tel.: +4915678514393</p>
-<p>Website:</p>
-<a href="./../2018/06/17/websites/index.html">Domains hier einsehen</a><
+<p>Website(s):</p>
+<a href="./../2018/06/17/websites/index.html">Domains hier einsehen</a>
 </blockquote>
 <h3 id="dsg-general-datatype">Arten der verarbeiteten Daten:</h3>
 <blockquote><p>&#8211; Bestandsdaten (z.B., Namen, Adressen).<br>
