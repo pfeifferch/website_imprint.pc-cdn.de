@@ -7,9 +7,7 @@ title:  "datenschutz"
 thumbnail: icon-152x152.png
 highresolutionimg: icon-152x152.png
 ---
-<!-- entry-content -->
-<div class="entry-content">
-		<h2>Datenschutzerkl&auml;rung</h2>
+<h2>Datenschutzerkl&auml;rung</h2>
 <blockquote><p>Diese Datenschutzerkl&auml;rung kl&auml;rt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepr&auml;senzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).</p></blockquote>
 <h3 id="dsg-general-controller">Verantwortlicher</h3>
 <blockquote>
@@ -370,5 +368,4 @@ Sofern die Nutzer Mitglieder der Plattform Twitter sind, kann Twitter den Aufruf
 <p>Stand: Juni 2018, Version DG2.2</p>
 </blockquote>
 <p>Vom Websiteinhaber angepasst und <a class="dsg1-5" href="https://datenschutz-generator.de/" target="_blank" rel="nofollow noopener noreferrer">Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke</a></p>
-			</div>
-<!-- .entry-content -->
+
