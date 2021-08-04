@@ -13,9 +13,20 @@ highresolutionimg: icon-152x152.png
 <h2>Domains</h2>
 <p>Die für das Impressum bzw den Haftungsausschluss zugehörigen Domains sind</p>
 <blockquote>
-<h2><div class="wplp_outside wplp_widget_394" style="max-width:100%;"><div id="wplp_widget_394" class="wplp_widget_default wplp_container vertical defaultflexslide default cols3" data-post="394" data-max-elts="1" data-per-page="10"><ul class="wplp_listposts defaultflexslide" id="default_394" style="width: 100%;"><li class="parent " style=""><div class="insideframe"><ul style=""><li class="" style="width:33.333333333333%;box-sizing: border-box;-moz-box-sizing: border-box;"><div class="insideframe">
-<div id="wplp_box_top_394_298" class="wpcu-front-box top "><a href="./../2018/06/17/websites/index.html"></a></div>
-<div id="wplp_box_left_394_298" class="wpcu-front-box left wpcu-custom-position" style="width: 100%"><a href="./../2018/06/17/websites/index.html"><span class="text"><span style="max-height:2.8em" class="line_limit">Nipp.es
+<h2>
+
+<div class="wplp_outside wplp_widget_394" style="max-width:100%;">
+<div id="wplp_widget_394" class="wplp_widget_default wplp_container vertical defaultflexslide default cols3" data-post="394" data-max-elts="1" data-per-page="10">
+
+<!--<ul class="wplp_listposts defaultflexslide" id="default_394" style="width: 100%;">
+<li class="parent " style="">-->
+<div class="insideframe">
+<!--<ul style="">
+<li class="" style="width:33.333333333333%;box-sizing: border-box;-moz-box-sizing: border-box;">-->
+<div class="insideframe">
+<div id="wplp_box_left_394_298" class="wpcu-front-box left wpcu-custom-position" style="width: 100%">
+<a href="./../2018/06/17/websites/index.html"><span class="text"><span style="max-height:2.8em" class="line_limit">
+Nipp.es
 
 christian-mestermann.de
 mestermann.name
@@ -23,9 +34,7 @@ mestermann.name
 ...</span></span><span class="custom_fields">
 <!-- WPLP Unknown field: Custom_Fields -->
 </span></a></div>
-<div id="wplp_box_right_394_298" class="wpcu-front-box right wpcu-custom-position" style="width: 0%"><a href="./../2018/06/17/websites/index.html"></a></div>
-<div id="wplp_box_bottom_394_298" class="wpcu-front-box bottom "><a href="./../2018/06/17/websites/index.html"></a></div>
-</div></li></ul></div></li></ul></div></div></h2>
+</div><!--</li></ul>--></div><!--</li></ul>--></div></div></h2>
 </blockquote>
 <div align="left">
 <h2>Haftung für Links</h2>
@@ -47,7 +56,7 @@ mestermann.name
 <h2>Rechtswirksamkeit dieses Haftungsausschlusses</h2>
 <blockquote><p>Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde sofern diese oben aufgeführt ist. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.</p></blockquote>
 <hr>
-<p>©2007-2019 | Alle Rechte vorbehalten.</p>
+<p>©2007-{{ site.time | date: "%Y" }}{{ article.published_at | date: "%Y" }} | Alle Rechte vorbehalten.</p>
 </div>
 			</div>
 <!-- .entry-content -->
