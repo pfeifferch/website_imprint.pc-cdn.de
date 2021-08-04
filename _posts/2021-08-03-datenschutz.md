@@ -19,51 +19,7 @@ Caya Postbox 474428<br>
 <p>Deutschland</p>
 <p>Tel.: +4915678514393</p>
 <p>Website:</p>
-<div class="wplp_outside wplp_widget_394" style="max-width:100%;"><div id="wplp_widget_394" class="wplp_widget_default wplp_container vertical defaultflexslide default cols3" data-post="394" data-max-elts="1" data-per-page="10"><ul class="wplp_listposts defaultflexslide" id="default_394" style="width: 100%;"><li class="parent " style=""><div class="insideframe"><ul style=""><li class="" style="width:33.333333333333%;box-sizing: border-box;-moz-box-sizing: border-box;"><div class="insideframe">
-<div id="wplp_box_top_394_298" class="wpcu-front-box top "><a href="./../2018/06/17/websites/index.html"></a></div>
-<div id="wplp_box_left_394_298" class="wpcu-front-box left wpcu-custom-position" style="width: 100%"><a href="./../2018/06/17/websites/index.html"><span class="text"><span style="max-height:2.8em" class="line_limit">Nipp.es
-
-christian-mestermann.de
-mestermann.name
-
-pfeiffer.space
-pfeiffer.world
-pfeiffer.work
-c-pfeiffer.de
-
-pc-cdn.de
-pc-cdn.eu
-
-disposable-mailbox.eu
-
-Die folgenden Domains stehen zum Verkauf
-&#8211; derzeit keine &#8211;
-
-
-Die folgenden Domains werden bzw wurden ebenfalls genutzt.
-Aufgrund der AGB des Domain-Anbieters sind Änderungen durch diesen möglich und zwar kann er nach alleinigen Ermessen Änderungen vornehmen, den Dienst an irgendeinem Teil des Dienstes jederzeit mit oder ohne vorherige Ankündigung vorübergehend oder dauerhaft einstellen, einschließlich, ohne Einschränkung, Änderung oder Einstellung von Werbung, Inhalten und Anwendungen &#8211; Hiermit distanziere/n ich/wir mich/uns ausdrücklich von sämtlichen Inhalten, aller etwaigen Änderungen jegweder Art durch Freenom und/oder deren Partner und mache/n mir/uns deren Inhalte nicht zu eigen.
-Da Freenom in der Vergangenheit regelmäßig von der Änderungspraxis Gebrauch gemacht hat, wurde ein Abschalt-Hinweis auf den folgenden Domains eingestellt welcher solange Angezeigt wird,  bis der Domain Anbieter von seiner AGB gebrauch macht und eigenmächtig Änderungen vornimmt (sprich: der Hinweis bleibt so lange, bis Freenom.die Domain löscht, für eigene Inhalte nutzt oder neu vergibt).
-cp-freehosting.cf
-cpgps.tk
-cp-gps.tk
-cp-hosting.tk
-cp-hosting.ml
-cp-hosting.ga
-cp-hosting.cf
-cp-hosting.gq
-hausbau-blog.ga
-hausbau-blog.ml
-cp-cdn.ml
-cp-mail.ml
-cp-mail.cf
-pcshop.cf
-pc-shop.ml
-pc-shop.cf...</span></span><span class="custom_fields">
-<!-- WPLP Unknown field: Custom_Fields -->
-</span></a></div>
-<div id="wplp_box_right_394_298" class="wpcu-front-box right wpcu-custom-position" style="width: 0%"><a href="./../2018/06/17/websites/index.html"></a></div>
-<div id="wplp_box_bottom_394_298" class="wpcu-front-box bottom "><a href="./../2018/06/17/websites/index.html"></a></div>
-</div></li></ul></div></li></ul></div></div>
+<a href="./../2018/06/17/websites/index.html">Domains hier einsehen</a><
 </blockquote>
 <h3 id="dsg-general-datatype">Arten der verarbeiteten Daten:</h3>
 <blockquote><p>&#8211; Bestandsdaten (z.B., Namen, Adressen).<br>
