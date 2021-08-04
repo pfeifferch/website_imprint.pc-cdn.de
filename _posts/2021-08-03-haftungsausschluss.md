@@ -7,9 +7,6 @@ title:  "Haftungsausschluss"
 thumbnail: icon-152x152.png
 highresolutionimg: icon-152x152.png
 ---
-
-<div class="entry-content">
-
 <h2>Domains</h2>
 <p>Die für das Impressum bzw den Haftungsausschluss zugehörigen Domains sind</p>
 <blockquote>
@@ -35,4 +32,3 @@ highresolutionimg: icon-152x152.png
 <h2>Rechtswirksamkeit dieses Haftungsausschlusses</h2>
 <blockquote><p>Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde sofern diese oben aufgeführt ist. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.</p></blockquote>
 <hr>
-</div>
