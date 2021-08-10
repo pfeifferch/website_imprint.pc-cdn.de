@@ -4,8 +4,8 @@ date:   2021-08-10 08:15:00
 categories: Info
 permalink: impressum-casa/index.html
 title:  "Impressum"
-thumbnail: icon-152x152.png
-highresolutionimg: icon-152x152.png
+thumbnail: pfeiffercasahouse.png
+highresolutionimg: pfeiffercasahouse.png
 ---
 
 <!-- entry-content -->
