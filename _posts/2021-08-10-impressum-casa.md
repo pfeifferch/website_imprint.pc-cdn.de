@@ -14,7 +14,7 @@ CAYA Postbox 474428<br>
 11516 Berlin</p>
 <p>Stichwort: pfeiffer.casa</p>
 
-Tel.: +491567fuenfundachtzig14393
+<hr>
 
 Website: pfeiffer.casa
 <!-- .entry-content -->
