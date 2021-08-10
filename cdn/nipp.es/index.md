@@ -1,1 +1,0 @@
-Yourls Customized Logo 
