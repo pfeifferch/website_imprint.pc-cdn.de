@@ -4,8 +4,8 @@ date:   2021-08-03 08:15:00
 categories: Info
 permalink: impressum-n/index.html
 title:  "Impressum"
-thumbnail: icon-152x152.png
-highresolutionimg: icon-152x152.png
+thumbnail: nipp-es-150.png
+highresolutionimg: nipp-es-310.png
 ---
 
 <!-- entry-content -->
