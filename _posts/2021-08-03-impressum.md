@@ -12,5 +12,5 @@ highresolutionimg: icon-152x152.png
 <p>Christian Pfeiffer<br>
 CAYA Postbox 474428<br>
 11516 Berlin</p>
-<p>Stichwort: pc-hosting</p>
+<p>Stichwort: pc-cdn</p>
 <!-- .entry-content -->
