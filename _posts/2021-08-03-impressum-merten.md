@@ -4,8 +4,8 @@ date:   2021-08-03 08:15:00
 categories: Info
 permalink: impressum-mrtn/index.html
 title:  "Impressum"
-thumbnail: icon-152x152.png
-highresolutionimg: icon-152x152.png
+thumbnail: mrtn-150.png
+highresolutionimg: mrtn-310.png
 ---
 
 <!-- entry-content -->
