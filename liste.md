@@ -9,13 +9,13 @@ title: Liste der Dateien
     {% for post in site.posts %}
 
 
-<article id="{{ post.id }}" class="{{ post.id }}{{ post.tags }} post type-post status-publish format-standard hentry">
+<span id="{{ post.id }}" class="{{ post.id }}{{ post.tags }} post type-post status-publish format-standard hentry">
 	<header class="entry-header">
 		<h1 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
 		<span class="entry-format-badge genericon genericon-standard"><span class="screen-reader-text">Standard</span></span>
 	</header><!-- .entry-header -->
 		<div class="entry-content">
-		<blockquote>
+<blockquote>
 <p style="text-align: center;">
           <a href="{{ post.url }}" rel="bookmark">
            <img src="/assets/img/bg/overlay-pattern.png" 
