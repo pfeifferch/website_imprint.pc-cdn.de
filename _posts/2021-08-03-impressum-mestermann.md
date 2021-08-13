@@ -4,7 +4,7 @@ date:   2021-08-03 08:15:00
 categories: Info
 permalink: impressum-c/index.html
 title:  "Impressum"
-thumbnail: mmann-150.png
+thumbnail: mmann150.png
 highresolutionimg: mmann-310.png
 ---
 
