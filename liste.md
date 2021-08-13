@@ -3,8 +3,6 @@ layout: default
 title: Liste der Dateien
 ---
 
-<div id="home">
-
   <ul class="posts">
     {% for post in site.posts %}
 
@@ -25,7 +23,7 @@ title: Liste der Dateien
           </a>
 <p>&nbsp;</p>
 
-			</div>
+
 <!-- .entry-content -->
 		<footer class="entry-meta">
 		<ul class="clear">
