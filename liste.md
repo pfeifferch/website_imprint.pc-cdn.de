@@ -36,7 +36,7 @@ title: Liste der Dateien
 	</li>
 			</ul>
 	</footer><!-- .entry-meta -->
-	</article><!-- #post-## -->
+	<!-- #post-## -->
 
     {% endfor %}
   </ul>
