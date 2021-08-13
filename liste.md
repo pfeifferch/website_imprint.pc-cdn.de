@@ -15,16 +15,16 @@ title: Liste der Dateien
 		<span class="entry-format-badge genericon genericon-standard"><span class="screen-reader-text">Standard</span></span>
 	</header><!-- .entry-header -->
 		<div class="entry-content">
-<blockquote>
+
 <p style="text-align: center;">
           <a href="{{ post.url }}" rel="bookmark">
            <img src="/assets/img/bg/overlay-pattern.png" 
            style="background-image: url(/assets/img/post-thumbnails/{{post.thumbnail}}); background-repeat: no-repeat; background-position: center center;" 
            loading="lazy" class="alignnone wp-image-50 aligncenter"
-           width="150" height="150" alt="{{ post.title }}"> {{ post.title }}</p>
+           width="150" height="150" alt="{{ post.title }}"> {{ post.title }}
           </a>
 <p>&nbsp;</p>
-</blockquote>
+
 			</div>
 <!-- .entry-content -->
 		<footer class="entry-meta">
