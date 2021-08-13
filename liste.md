@@ -37,5 +37,3 @@ title: Liste der Dateien
 	<!-- #post-## -->
 
     {% endfor %}
-  </ul>
-</div>
