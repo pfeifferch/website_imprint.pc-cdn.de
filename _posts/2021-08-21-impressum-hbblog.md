@@ -1,11 +1,11 @@
 ---
 layout: imprint
-date:   2021-08-03 08:15:00
+date:   2021-08-21 04:07:11
 categories: Info
 permalink: impressum-hbblog/index.html
 title:  "Impressum"
-thumbnail: icon-152x152.png
-highresolutionimg: icon-152x152.png
+thumbnail: bbhaus-152x152.png
+highresolutionimg: bbhaus-152x152.png
 ---
 
 <!-- entry-content -->
