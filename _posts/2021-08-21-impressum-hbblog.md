@@ -1,16 +1,16 @@
 ---
 layout: imprint
-date:   2021-08-03 08:15:00
+date:   2021-08-21 04:07:11
 categories: Info
-permalink: impressum-ps/index.html
+permalink: impressum-hbblog/index.html
 title:  "Impressum"
-thumbnail: pfeiffer-sr-150.png
-highresolutionimg: pfeiffer-sr-150.png
+thumbnail: bbhaus-152x152.png
+highresolutionimg: bbhaus-152x152.png
 ---
 
 <!-- entry-content -->
 <p>Christian Pfeiffer<br>
 CAYA Postbox 474428<br>
 11516 Berlin</p>
-<p>Stichwort: pfeiffer space</p>
+<p>Stichwort: Hausbau-Blog</p>
 <!-- .entry-content -->
