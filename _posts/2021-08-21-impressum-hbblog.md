@@ -1,5 +1,5 @@
 ---
-layout: imprint
+layout: imprintlh
 date:   2021-08-21 04:07:11
 categories: Info
 permalink: impressum-hbblog/index.html
