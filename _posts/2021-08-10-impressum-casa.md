@@ -1,5 +1,5 @@
 ---
-layout: imprint
+layout: imprintcasa
 date:   2021-08-10 08:15:00
 categories: Info
 permalink: impressum-casa/index.html
