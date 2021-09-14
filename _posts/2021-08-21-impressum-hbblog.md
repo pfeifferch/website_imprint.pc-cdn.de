@@ -6,6 +6,7 @@ permalink: impressum-hbblog/index.html
 title:  "Impressum"
 thumbnail: bbhaus-152x152.png
 highresolutionimg: bbhaus-152x152.png
+themeBGimage: https://hausbau-blog.pfeiffer.world/assets/bg-images/haus.jpg
 ---
 
 <!-- entry-content -->
