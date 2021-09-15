@@ -5,7 +5,7 @@ categories: Info
 permalink: /posttest/index.html
 title:  "websites"
 thumbnail:
-highresolutionimg:
+highresolutionimg: none
 ---
 
 <p><a href="https://nipp.es/" target="_blank" rel="noopener noreferrer">Nipp.es</a></p>
