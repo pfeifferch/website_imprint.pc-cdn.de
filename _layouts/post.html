@@ -23,10 +23,11 @@ layout: default
 </div>
 
 {% if site.deactivaterelatedposts != "true" %} 
-<!-- 1 {{ page.deactivaterelatedposts }} -->
-<!-- 1 {{ site.deactivaterelatedposts }} -->
+<!-- site_deactivate_related_posts = {{ site.deactivaterelatedposts }} -->
 {% else %} 
-<!-- 2 {{ page.deactivaterelatedposts }} -->
-<!-- 2 {{ site.deactivaterelatedposts }} -->
-{% include related_posts.html %}
+  {% if page.deactivaterelatedposts != "true" %} 
+   <!-- page_deactivate_related_posts = {{ page.deactivaterelatedposts }} -->
+  {% else %} 
+ {% include related_posts.html %}
+  {% endif %}
 {% endif %}
