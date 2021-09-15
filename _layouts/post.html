@@ -22,5 +22,6 @@ layout: default
 {{ content }}
 </div>
 
-
+{% if site.deactivate_related_posts != "true" %} 
 {% include related_posts.html %}
+{% endif %}
