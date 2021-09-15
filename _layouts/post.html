@@ -22,7 +22,7 @@ layout: default
 {{ content }}
 </div>
 
-{% if not site.deactivaterelatedposts == "true" or not page.deactivaterelatedposts == "true" %} 
+{% if site.deactivaterelatedposts != "true" %} 
 <!-- 1 {{ page.deactivaterelatedposts }} -->
 <!-- 1 {{ site.deactivaterelatedposts }} -->
 {% else %} 
