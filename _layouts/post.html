@@ -22,7 +22,7 @@ layout: default
 {{ content }}
 </div>
 
-{% if site.deactivate_related_posts = "true" %} 
+{% if site.deactivate_related_posts != "true" or page.deactivate_related_posts != "true" %} 
 {% include related_posts.html %}
 {% else %} 
 Blumenkohl
