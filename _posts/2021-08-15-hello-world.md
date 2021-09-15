@@ -6,6 +6,7 @@ permalink: /posttest/index.html
 title:  "websites"
 thumbnail:
 highresolutionimg: none
+author: Herr Tester
 ---
 
 <p><a href="https://nipp.es/" target="_blank" rel="noopener noreferrer">Nipp.es</a></p>
