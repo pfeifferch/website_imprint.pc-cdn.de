@@ -22,11 +22,9 @@ layout: default
 {{ content }}
 </div>
 
-{% if site.deactivaterelatedposts = "true" or page.deactivaterelatedposts = "true" %} 
-1
-{{ page.deactivaterelatedposts }}
-{{ site.deactivaterelatedposts }}
-{% include related_posts.html %}
+{% if site.deactivaterelatedposts == "true" or page.deactivaterelatedposts == "true" %} 
+<!-- {{ page.deactivaterelatedposts }} -->
+<!-- {{ site.deactivaterelatedposts }} -->
 {% else %} 
-Blumenkohl
+{% include related_posts.html %}
 {% endif %}
