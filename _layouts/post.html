@@ -24,6 +24,8 @@ layout: default
 
 {% if site.deactivaterelatedposts != "true" or page.deactivaterelatedposts != "true" %} 
 Krautsalat
+{{ page.deactivaterelatedposts }}
+{{ site.deactivaterelatedposts }}
 {% include related_posts.html %}
 {% else %} 
 Blumenkohl
