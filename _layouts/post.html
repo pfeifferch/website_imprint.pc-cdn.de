@@ -22,7 +22,7 @@ layout: default
 {{ content }}
 </div>
 
-{% if site.deactivaterelatedposts != "true" or page.deactivaterelatedposts != "true" %} 
+{% if site.deactivaterelatedposts = "true" or page.deactivaterelatedposts = "true" %} 
 Krautsalat
 {{ page.deactivaterelatedposts }}
 {{ site.deactivaterelatedposts }}
