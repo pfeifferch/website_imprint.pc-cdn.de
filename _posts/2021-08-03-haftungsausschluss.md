@@ -31,4 +31,4 @@ highresolutionimg: icon-152x152.png
 <blockquote><p>Detailierte Informationen zum Datenschutz, Insbesondere Informationen zu Externen Diensten unter <a title="Datenschutzerkl&amp;aauml;rung" href="http://goto.c-pfeiffer.de/datenschutz">Datenschutz</a></p></blockquote>
 <h2>Rechtswirksamkeit dieses Haftungsausschlusses</h2>
 <blockquote><p>Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde sofern diese oben aufgeführt ist. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.</p></blockquote>
-<hr>
+
