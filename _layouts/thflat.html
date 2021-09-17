@@ -90,10 +90,13 @@ img.emoji {
 						<h1 class="entry-title" itemprop="name">{{ page.title | default: site.name }}</h1>
 					</header>
 <div class="entry-content" itemprop="articleBody">
-{{ content }}																</div>
+{{ content }}	
+<div class="page-footer">
+{% include page-footer.html %}
+</div>															</div>
 </article></div>
 
-{% include footer.html %}								</div>
+{% include page-footer.html %}								</div>
 		</div>
 	</div>
 </div>
