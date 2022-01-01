@@ -15,7 +15,7 @@ highresolutionimg: icon-152x152.png
 Caya Postbox 474428<br>
 11516 Berlin</p>
 <p>Deutschland</p>
-Zel.: <script>
+Tel.: <script>
 // Function to reverse string 
 
 function ReverseString(str) { 
