@@ -15,7 +15,27 @@ highresolutionimg: icon-152x152.png
 Caya Postbox 474428<br>
 11516 Berlin</p>
 <p>Deutschland</p>
-<p>Tel.: +4915678514393</p>
+Zel.: <script>
+// Function to reverse string 
+
+function ReverseString(str) { 
+
+   return str.split('').reverse().join('') 
+
+} 
+
+  
+
+// Function call  
+
+document.write(ReverseString("923 gizfnüfdnuiewztrednuhreiv 87 shces 510 )0( 9400")) 
+
+</script> 
+<noscript>
+<span style="text-decoration: underline wavy red; ">Your browser does not support JavaScript - but is required to display the number! <br/>
+Javascript ist Deaktiviert oder wird nicht unterstützt - wird aber benötigt um die Nummer anzuzeigen!</span>
+</noscript>
+
 <p>Website(s):</p>
 <a href="./../2018/06/17/websites/index.html">Domains hier einsehen</a>
 </blockquote>
