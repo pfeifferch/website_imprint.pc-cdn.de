@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PC-CDN.EU - CDN (EU)
+title: IMPRINT.PC-CDN.DE - IMPRINT / IMPRESSUM 
 ---
 
 <div id="home">
