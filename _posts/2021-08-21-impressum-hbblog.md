@@ -7,6 +7,7 @@ title:  "Impressum"
 thumbnail: bbhaus-152x152.png
 highresolutionimg: bbhaus-152x152.png
 themeBGimage: https://hausbau-blog.pfeiffer.world/assets/bg-images/haus.jpg
+themelogo: https://template.pc-cdn.eu/assets/bg-images/onepixel-transparent.png
 themecolor: 637d96 # not possible
 ---
 
