@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMPRINT.PC-CDN.DE - IMPRINT / IMPRESSUM 
+#title: IMPRINT PC-CDN - IMPRINT / IMPRESSUM 
 ---
 
 <div id="home">
