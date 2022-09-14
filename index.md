@@ -3,7 +3,7 @@ layout: default
 #title: IMPRINT PC-CDN - IMPRINT / IMPRESSUM 
 ---
 
-# {{ site.title }}: {{site.subtitle }}
+<h1> {{ site.title }}: {{site.subtitle }} </h1>
 
 <div id="home">
 <blockquote>
