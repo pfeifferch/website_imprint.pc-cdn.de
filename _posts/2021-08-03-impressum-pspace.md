@@ -9,8 +9,6 @@ highresolutionimg: pfeiffer-sr-150.png
 ---
 
 <!-- entry-content -->
-<p>Christian Pfeiffer<br>
-CAYA Postbox 474428<br>
-11516 Berlin</p>
+{% include pbanschrift.html %}
 <p>Stichwort: pfeiffer space</p>
 <!-- .entry-content -->

@@ -12,9 +12,7 @@ FAS: CSS
 Die Domain dient ausschließlich als Maildomain der Kommunikation. 
 Dies ist keine Handelsplatform weshalb mit dieser Website keine Gewinne entstehen.
 <!-- entry-content -->
-<p>Christian Pfeiffer<br>
-CAYA Postbox 474428<br>
-11516 Berlin</p>
+{% include pbanschrift.html %}
 <p>Stichwort: pfeiffer.casa</p>
 
 <hr>

@@ -12,8 +12,6 @@ themelogo: https://template.pc-cdn.eu/assets/bg-images/onepixel-transparent.png
 ---
 
 <!-- entry-content -->
-<p>Christian Pfeiffer<br>
-CAYA Postbox 474428<br>
-11516 Berlin</p>
+{% include pbanschrift.html %}
 <p>Stichwort: Hausbau-Blog</p>
 <!-- .entry-content -->

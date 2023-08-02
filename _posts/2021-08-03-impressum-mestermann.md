@@ -9,8 +9,6 @@ highresolutionimg: mmann-310.png
 ---
 
 <!-- entry-content -->
-<p>Christian Pfeiffer<br>
-CAYA Postbox 474428<br>
-11516 Berlin</p>
+{% include pbanschrift.html %}
 <p>Stichwort: mestermann</p>
 <!-- .entry-content -->

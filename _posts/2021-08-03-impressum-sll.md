@@ -9,9 +9,7 @@ highresolutionimg: PCDomainOffers.png
 ---
 
 <!-- entry-content -->
-<p>Christian Pfeiffer<br>
-CAYA Postbox 474428<br>
-11516 Berlin</p>
+{% include pbanschrift.html %}
 <p>Stichwort: selldom</p>
 <p>&nbsp;</p>
 <p>Der Erl&ouml;s beim Verkauf der Domains gleicht etwa die bisherigen Unkosten für Hosting und Domain-Miete aus, weshalb keine Gewinnabsicht erziehlt wird.</p>

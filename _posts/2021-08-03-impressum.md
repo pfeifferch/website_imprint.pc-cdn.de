@@ -9,8 +9,6 @@ highresolutionimg: icon-152x152.png
 ---
 
 <!-- entry-content -->
-<p>Christian Pfeiffer<br>
-CAYA Postbox 474428<br>
-11516 Berlin</p>
+{% include pbanschrift.html %}
 <p>Stichwort: pc-cdn</p>
 <!-- .entry-content -->
