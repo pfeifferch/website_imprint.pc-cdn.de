@@ -1,5 +1,5 @@
 ---
-layout: imprint
+layout: imprintpzip
 themecolor: blue
 date:   2023-08-01 05:15:00
 categories: Info
