@@ -10,5 +10,5 @@ highresolutionimg: pfeiffer-sr-150.png
 
 <!-- entry-content -->
 {% include pbanschrift.html %}
-<p>Stichwort: pfeiffer space</p>
+<p>Stichwort: pfeiffer-worldspace-ch</p>
 <!-- .entry-content -->
