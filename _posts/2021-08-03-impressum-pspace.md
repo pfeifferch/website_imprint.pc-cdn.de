@@ -7,7 +7,7 @@ title:  "Impressum"
 thumbnail: pfeiffer-sr-150.png
 highresolutionimg: pfeiffer-sr-150.png
 ---
-
+<img src="https://github.com/pfeifferch.png">
 <!-- entry-content -->
 {% include pbanschrift.html %}
 <p>Stichwort: pfeifferch/ws</p>
