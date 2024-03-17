@@ -10,6 +10,7 @@ highresolutionimg: pfeiffer-sr-150.png
 <!-- entry-content -->
 {% include pbanschrift.html %}
 <p>Stichwort: pfeifferch/ws</p>  
-  
+</blockquote> 
 <img src="https://github.com/pfeifferch.png" width="150px" height="150px">
 <!-- .entry-content -->
+<blockquote>
