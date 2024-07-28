@@ -9,5 +9,6 @@ highresolutionimg: mrtn-310.png
 ---
 
 <!-- entry-content -->
-Die Seite ist seit 20.07.2023 nicht mehr Teil des PC-CDN.
+Die Domain merten.ml ist seit 20.07.2023 nicht mehr Teil des PC-CDN.  
+
 <!-- .entry-content -->
