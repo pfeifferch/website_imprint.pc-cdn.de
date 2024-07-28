@@ -1,5 +1,5 @@
 ---
-layout: imprint
+layout: default
 date:   2021-08-03 08:15:00
 categories: Info
 permalink: impressum-mrtn/index.html
@@ -9,5 +9,5 @@ highresolutionimg: mrtn-310.png
 ---
 
 <!-- entry-content -->
-Die Seite ist seit einiger Zeit nicht mehr Teil des PC-CDN.
+Die Seite ist seit 20.07.2023 nicht mehr Teil des PC-CDN.
 <!-- .entry-content -->
