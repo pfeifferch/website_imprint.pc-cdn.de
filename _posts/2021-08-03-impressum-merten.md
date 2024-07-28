@@ -9,6 +9,5 @@ highresolutionimg: mrtn-310.png
 ---
 
 <!-- entry-content -->
-{% include pbanschrift.html %}
-<p>Stichwort: merten-mail</p>
+Die Seite ist seit einiger Zeit nicht mehr Teil des PC-CDN.
 <!-- .entry-content -->
