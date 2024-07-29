@@ -11,6 +11,8 @@ FAS: CSS
 ---
 Die Domain dient ausschließlich als Maildomain der Kommunikation. 
 Dies ist keine Handelsplatform weshalb mit dieser Website keine Gewinne entstehen.
+</blockquote>
+<blockquote>
 <!-- entry-content -->
 {% include pbanschrift.html %}
 <p>Stichwort: pfeiffer.casa</p>
