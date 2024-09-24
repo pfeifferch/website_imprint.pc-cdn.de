@@ -2,7 +2,7 @@
 layout: imprintlh
 date:   2021-08-21 04:07:11
 categories: Info
-permalink: impressum-hbblog/index.html
+permalink: impressum/hbblog.html
 title:  "Impressum"
 thumbnail: bbhaus-152x152.png
 highresolutionimg: bbhaus-152x152.png
