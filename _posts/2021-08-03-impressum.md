@@ -2,8 +2,8 @@
 layout: imprint
 date:   2021-08-03 08:15:00
 categories: Info
-permalink: impressum/index.html
-title:  "Impressum"
+permalink: impressum/pc-cdn.html
+title:  "Impressum PC-CDN"
 thumbnail: icon-152x152.png
 highresolutionimg: icon-152x152.png
 ---
